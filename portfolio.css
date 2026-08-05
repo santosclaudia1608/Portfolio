@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "MinhaFonte";
+    src: url("../fonts/Bogart-Semibold-trial.ttf") format("truetype");
+}
+
+nav{
+    text-align:center;
+    background-color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-bottom: 1px solid #ddd;
+}
+
+nav a{
+    text-decoration:none;
+    color:black;
+    margin:20px;
+    font-size:20px;
+     font-family: "Montserrat";
+}
+
+h1 {
+     color: rgb(52, 37, 32);
+    font-family: "Montserrat";
+    font-size: 200%;
+   padding-left: 10%;
+   padding-top: 4%;
+}
+
+h2 {
+   color: rgb(52, 37, 32);
+    font-family: "Montserrat";
+    font-size: 150%;
+   padding-left: 10%;
+   padding-top: 4%;
+}
+
+
+h3 {
+   color: black;
+   font-size: 100%;
+   font-family: "Montserrat"; 
+   text-align: center;
+}
+
+p {
+    color: rgb(65, 61, 61);
+    font-size: larger;
+    font-family: "Montserrat";
+    padding-left: 8%;
+    padding-right: 8%;
+    text-align: left;
+}
+
+.list {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin-left: 80px;
+    width: fit-content;
+}
+
+h4 {
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: x-large;
+}
+
+li {
+     padding: 5px;
+    font-size: large;
+    font-family: "Montserrat";
+    margin-left: 5px;
+}
+
+.portfolio {
+    display: block;
+    width: fit-content;
+}
+
+.sample_content_1 {
+    display: block; 
+    margin: auto;
+    width: 70%;
+}
+
+.sample_content_2 {
+    display: block; 
+    margin: auto;
+    width: 70%;
+}
+
+.sample_content_3 {
+    display: block; 
+    margin: auto;
+    width: 70%;
+}
+
+.sample_content_4 {
+    display: block; 
+    margin: auto;
+    width: 70%;
+}
+
+.sample_content_5 {
+    display: block; 
+    margin: auto;
+    width: 40%;
+}
+
+.link {
+    text-align: center;
+}
+
+.link a {
+    color: rgb(65, 61, 61);
+    font-size: x-large;
+    font-family: "Montserrat";
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

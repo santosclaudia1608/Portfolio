@@ -170,3 +170,16 @@ li {
     margin-top:40px;
     letter-spacing:8px;
 }
+
+.link {
+    text-align: center;
+}
+
+.link a {
+    color: rgb(65, 61, 61);
+    font-size: large;
+    font-family: "Montserrat";
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
